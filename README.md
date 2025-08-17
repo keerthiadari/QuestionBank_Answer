@@ -1,7 +1,6 @@
 # 📚 AI-Powered Answer Key Generator
 
 An intelligent web application that automatically generates comprehensive answer keys from question bank PDFs using advanced AI technology. Built with Streamlit and powered by Google's Gemini AI, this tool revolutionizes how educators and students create and access answer keys.
-### Live : https://question-bank-to-answer-key.streamlit.app/
 ## 🌟 Features
 
 - **Intelligent Question Extraction**: Automatically identifies and extracts questions from PDF documents with smart mark assignment
@@ -27,3 +26,4 @@ An intelligent web application that automatically generates comprehensive answer
 - **GoogleGenerativeAI**: Text generation and embeddings
 - **RecursiveCharacterTextSplitter**: Document chunking for optimal processing
 - **Vector Store**: Semantic search capabilities for relevant context retrieval
+
